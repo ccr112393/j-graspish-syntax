@@ -1,7 +1,7 @@
 {
   "name": "j-graspish-syntax",
   "theme": "syntax",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Atom syntax theme inspired by jGRASP default colors (slightly modified).",
   "keywords": [
     "syntax",
