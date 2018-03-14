@@ -6,4 +6,4 @@ Syntax theme based on the default color scheme for jGRASP slightly modified to r
 The 'String' color was modified to resemble the purple color from Xcode.
 
 
-# README.md updated by 03/14/18 by ccr05.
+###### README.md updated by 03/14/18 by ccr05.
