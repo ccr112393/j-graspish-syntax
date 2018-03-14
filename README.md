@@ -7,7 +7,8 @@ The 'String' color was modified to resemble the purple color from Xcode.
 
 In addition we modified the color of the datatypes.
 
-# README.md updated by 03/14/18 by ccr05.
 
+###### README.md updated by 03/14/18 by ccr05.
 
 This project is a private project. 
+
